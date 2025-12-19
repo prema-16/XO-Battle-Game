@@ -34,3 +34,11 @@ XO Battle Game is a simple two-player Tic Tac Toe game built with HTML, CSS, and
 
 
 ## 📂 Project Structure
+
+xo-battle-game/
+│
+├── index.html      # Main HTML file
+├── style.css       # Styling for the game
+├── script.js       # Game logic (JavaScript)
+└── README.md       # Project documentation
+
