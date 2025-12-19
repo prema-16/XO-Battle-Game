@@ -42,3 +42,5 @@ xo-battle-game/
 ├── script.js       # Game logic (JavaScript)
 └── README.md       # Project documentation
 
+## 🙌 Author
+Created by Premanand Londhe
